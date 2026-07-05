@@ -1,0 +1,8 @@
+﻿  main.cpp
+x64\Release\mandelbrotgenerator.obj : warning LNK4042: объект указан более одного раза; лишние не учитываются
+  Создание кода
+  1 of 707 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  MandelbrotRender.vcxproj -> E:\Проекты С++\MandelbrotSet v2.0\x64\Release\MandelbrotRender.exe
